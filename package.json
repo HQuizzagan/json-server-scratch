@@ -1,0 +1,14 @@
+{
+  "name": "react-task-tracker-db",
+  "version": "1.0.0",
+  "description": "This is a json-server that will be deployed on Heroku. It hosts a fake backend in the form of a JSON Server where I can test HTTP requests online.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "HQuizzagan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
